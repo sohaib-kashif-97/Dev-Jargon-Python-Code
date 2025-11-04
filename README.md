@@ -7,26 +7,20 @@ Starting your first Python developer job can introduce you to many new concepts 
 ### Object-Oriented Programming (OOP) Concepts
 Examples demonstrating classes, objects, encapsulation, inheritance, and polymorphism.
 
-### Python Inheritance
-Sample code showcasing single and multiple inheritance to illustrate reuse and extension of class functionality.
-
 ### Making and Importing Python Modules
 Simple modules created and imported across files to emphasize code organization and reuse.
 
 ### Lambda Functions
 Concise examples using anonymous functions for inline operations like sorting and filtering.
 
+### YAML Configuration File
+Parsing YAML configuration files in Python for flexible, human-readable configuration management.
+
 ### Virtual Environments
 Instructions and best practices for creating isolated Python environments using venv.
 
 ### Terminal Arguments
 Scripts that accept and process command-line arguments, demonstrating dynamic input handling.
-
-### YAML Configuration File
-Parsing YAML configuration files in Python for flexible, human-readable configuration management.
-
-### Testing Modules
-Basic tests using Python’s unittest framework to show how testing improves code reliability.
 
 ### How to Use
 Each folder or Python file in this repository corresponds to one of the above topics. Run and experiment with the examples to strengthen your understanding and prepare yourself for your first Python developer role.
